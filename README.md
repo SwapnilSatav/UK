@@ -2,3 +2,5 @@
 London
 Ireland
 Switzerland
+France
+Spain
